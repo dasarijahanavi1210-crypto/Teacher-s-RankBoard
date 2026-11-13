@@ -19,6 +19,17 @@
    - 5 = Show Rank 1 Student
    - 6 = Exit
 
+  ## Why I Made This Program
+
+Honestly, I made this project to test myself.
+
+I am in B.Tech 1st Year and I am still learning Python and to be real I did use ChatGPT to help me understand and write the code, fix errors, and learn how to put this project on GitHub. I did not just copy-paste, I tried to understand every part - functions, lists, and dictionaries.
+
+I wanted to see if I can build a real program that actually works for teachers and help them.
+
+This is my first project. I know it is simple and so many people do this kind of simple projects, but I am proud of it because I learned so much while making it.
+            -Thank you-
+
 ## Made By
 Dasari Jahanavi
 B.Tech 1st Year, VJIT
