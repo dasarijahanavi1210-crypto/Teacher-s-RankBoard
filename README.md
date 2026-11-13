@@ -1,11 +1,4 @@
-# Teacher-s-RankBoard
-For teachers to manage class marks ,see average and find Rank 1 student.Made with Python 
-# Teacher's RankBoard
-
-For teachers to manage class marks, see average, and find the Rank 1 student.
-Made with Python.
-
-## Features
+# Features
 - Add many students
 - Add marks for 5 subjects: Maths, Physics, Python, Chemistry, English
 - Show all students marks
