@@ -103,4 +103,4 @@ while True:
     else:
         print("Wrong choice, try again")
 
-  print("Thank you for choosing Teacher's RankBoard")
+print("Thank you for choosing Teacher's RankBoard")
